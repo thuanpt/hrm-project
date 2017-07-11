@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNhanSu_DH", "QLNhanSu_DH\QLNhanSu_DH.csproj", "{65FF2F30-24E6-4D44-BB35-EB3145208742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{1A06F6EC-2E0B-4F25-B7E3-2B45D6BF0A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{BBCFD393-E442-4D3F-8630-CC1A9529867A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65FF2F30-24E6-4D44-BB35-EB3145208742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FF2F30-24E6-4D44-BB35-EB3145208742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FF2F30-24E6-4D44-BB35-EB3145208742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FF2F30-24E6-4D44-BB35-EB3145208742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A06F6EC-2E0B-4F25-B7E3-2B45D6BF0A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A06F6EC-2E0B-4F25-B7E3-2B45D6BF0A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A06F6EC-2E0B-4F25-B7E3-2B45D6BF0A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A06F6EC-2E0B-4F25-B7E3-2B45D6BF0A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCFD393-E442-4D3F-8630-CC1A9529867A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCFD393-E442-4D3F-8630-CC1A9529867A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCFD393-E442-4D3F-8630-CC1A9529867A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCFD393-E442-4D3F-8630-CC1A9529867A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

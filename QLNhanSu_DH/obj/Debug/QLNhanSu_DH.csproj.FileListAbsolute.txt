@@ -1,0 +1,56 @@
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\QLNhanSu_DH.exe
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\QLNhanSu_DH.pdb
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\BUS.dll
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\DAL.dll
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\BUS.pdb
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\DAL.pdb
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.csprojResolveAssemblyReference.cache
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmChucVu.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmDangNhap.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmDanToc.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmHoSoNV.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmMenu.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmPhongBan.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.Properties.Resources.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.csproj.GenerateResource.Cache
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.exe
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.pdb
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\QLNhanSu_DH.exe.config
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmKhenThuong.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmKyLuat.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmTimKiem.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\RdlCompile.cache
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\RdlCompile.compiled
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmDoiMatKhau.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmReportNhanSu.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmReportKhenThuong.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmReportKyLuat.resources
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmThongKeBaoCao.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\QLNhanSu_DH.exe.config
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.exe
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.pdb
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\QLNhanSu_DH.exe
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\QLNhanSu_DH.pdb
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\BUS.dll
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\DAL.dll
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\BUS.pdb
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\bin\Debug\DAL.pdb
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.csprojResolveAssemblyReference.cache
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmChucVu.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmDangNhap.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmDanToc.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmDoiMatKhau.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmHoSoNV.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmKhenThuong.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmKyLuat.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmMenu.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmPhongBan.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmReportKhenThuong.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmReportKyLuat.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmReportNhanSu.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmThongKeBaoCao.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.frmTimKiem.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.Properties.Resources.resources
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\QLNhanSu_DH.csproj.GenerateResource.Cache
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\RdlCompile.cache
+D:\Đò án\QLNhanSu_DH\QLNhanSu_DH\obj\Debug\RdlCompile.compiled

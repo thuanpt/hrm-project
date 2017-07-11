@@ -1,0 +1,11 @@
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\DAL\bin\Debug\DAL.dll.config
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\DAL\bin\Debug\DAL.dll
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\DAL\bin\Debug\DAL.pdb
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\DAL\obj\Debug\DAL.dll
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\DAL\obj\Debug\DAL.pdb
+D:\Đò án\QLNhanSu_DH\DAL\bin\Debug\DAL.dll.config
+D:\Đò án\QLNhanSu_DH\DAL\bin\Debug\DAL.dll
+D:\Đò án\QLNhanSu_DH\DAL\bin\Debug\DAL.pdb
+D:\Đò án\QLNhanSu_DH\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Đò án\QLNhanSu_DH\DAL\obj\Debug\DAL.dll
+D:\Đò án\QLNhanSu_DH\DAL\obj\Debug\DAL.pdb

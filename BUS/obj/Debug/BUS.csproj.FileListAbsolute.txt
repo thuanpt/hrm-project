@@ -1,0 +1,14 @@
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\BUS\bin\Debug\BUS.dll
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\BUS\bin\Debug\BUS.pdb
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\BUS\bin\Debug\DAL.dll
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\BUS\bin\Debug\DAL.pdb
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\BUS\obj\Debug\BUS.dll
+C:\Users\thuan\Documents\Visual Studio 2013\Projects\QLNhanSu_DH\BUS\obj\Debug\BUS.pdb
+D:\Đò án\QLNhanSu_DH\BUS\bin\Debug\BUS.dll
+D:\Đò án\QLNhanSu_DH\BUS\bin\Debug\BUS.pdb
+D:\Đò án\QLNhanSu_DH\BUS\bin\Debug\DAL.dll
+D:\Đò án\QLNhanSu_DH\BUS\bin\Debug\DAL.pdb
+D:\Đò án\QLNhanSu_DH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Đò án\QLNhanSu_DH\BUS\obj\Debug\BUS.dll
+D:\Đò án\QLNhanSu_DH\BUS\obj\Debug\BUS.pdb
